@@ -17,3 +17,4 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
+<img width="1353" height="528" alt="image" src="https://github.com/user-attachments/assets/d95d203e-1025-43f2-903a-9c1f63c16a50" />
